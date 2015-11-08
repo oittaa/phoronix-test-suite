@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!--Phoronix Test Suite v5.8.0m1 (Belev)-->
+<PhoronixTestSuite>
+  <ResultsParser>
+    <OutputTemplate>Pass 2/2 frame  217/217   372969B   13750b/f  343750b/s  587759 ms (#_RESULT_# fps)</OutputTemplate>
+    <LineHint> fps</LineHint>
+    <ResultBeforeString>fps</ResultBeforeString>
+  </ResultsParser>
+</PhoronixTestSuite>
