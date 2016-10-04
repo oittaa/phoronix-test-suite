@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<!--Phoronix Test Suite v5.8.0m1 (Belev)-->
+<PhoronixTestSuite>
+  <ResultsParser>
+    <OutputTemplate>Destination file: /dev/null
+Encoder parameters:
+    g_usage                      = 0
+    g_threads                    = 8
+    g_profile                    = 0
+    g_w                          = 1920
+    g_h                          = 1080
+    g_bit_depth                  = 8
+    g_input_bit_depth            = 8
+    g_timebase.num               = 1
+    g_timebase.den               = 25
+    g_error_resilient            = 0
+    g_pass                       = 0
+    g_lag_in_frames              = 25
+    rc_dropframe_thresh          = 0
+    rc_resize_allowed            = 0
+    rc_scaled_width              = 0
+    rc_scaled_height             = 0
+    rc_resize_up_thresh          = 60
+    rc_resize_down_thresh        = 30
+    rc_end_usage                 = 0
+    rc_target_bitrate            = 2000
+    rc_min_quantizer             = 0
+    rc_max_quantizer             = 63
+    rc_undershoot_pct            = 25
+    rc_overshoot_pct             = 25
+    rc_buf_sz                    = 6000
+    rc_buf_initial_sz            = 4000
+    rc_buf_optimal_sz            = 5000
+    rc_2pass_vbr_bias_pct        = 50
+    rc_2pass_vbr_minsection_pct  = 0
+    rc_2pass_vbr_maxsection_pct  = 2000
+    kf_mode                      = 1
+    kf_min_dist                  = 0
+    kf_max_dist                  = 128
+Pass 1/2 frame  217/218    41856B    1543b/f   38576b/s   14663 ms (14.80 fps)
+Pass 2/2 frame  217/217  2132033B   78600b/f 1965007b/s   60688 ms (#_RESULT_# fps)
+Stream 0 PSNR (Overall/Avg/Y/U/V) 37.167 37.789 37.488 37.577 39.621</OutputTemplate>
+    <LineHint> fps</LineHint>
+    <ResultBeforeString>fps</ResultBeforeString>
+  </ResultsParser>
+</PhoronixTestSuite>
